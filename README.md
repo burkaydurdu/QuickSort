@@ -1,0 +1,3 @@
+# Run :
+  Shell command
+> ./QuickSort
